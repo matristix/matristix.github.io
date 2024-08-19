@@ -13,8 +13,9 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1rem 0;
-  font-size: 1.25rem;
-  color: #868686;
+  font-size: 1rem;
+  color: #f0f0f0;
+  font-weight: normal;
 }
 
 p, ul, ol {
