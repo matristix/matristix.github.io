@@ -24,11 +24,16 @@ p, ul, ol {
   font-style: italic;
 }
 
-h1 a {
+.header-text {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.header a {
   color: #adadad;
   text-decoration: none;
 }
 
-h1 a:hover {
+.header a:hover {
   color: #fff;
 }
