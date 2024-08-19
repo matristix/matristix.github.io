@@ -23,3 +23,12 @@ p, ul, ol {
 .italic-text {
   font-style: italic;
 }
+
+h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  text-decoration: underline;
+}
