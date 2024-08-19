@@ -25,10 +25,10 @@ p, ul, ol {
 }
 
 h1 a {
-  color: #fff;
+  color: #adadad;
   text-decoration: none;
 }
 
 h1 a:hover {
-  text-decoration: underline;
+  color: #fff;
 }
