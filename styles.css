@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
 
 html {
   max-width: 30rem;
@@ -20,4 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol {
   margin-bottom: 1rem;
+}
+
+.italic-text {
+  font-style: italic;
 }
