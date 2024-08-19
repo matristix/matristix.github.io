@@ -24,9 +24,10 @@ p, ul, ol {
   font-style: italic;
 }
 
-.header-text {
+.header {
   font-size: 1.25rem;
   margin-bottom: 1rem;
+  color: #adadad;
 }
 
 .header a {
