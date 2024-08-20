@@ -3,7 +3,7 @@ html {
   padding: 2rem 1rem;
   margin: auto;
   line-height: 1.5;
-  font-size: 1.25rem;
+  font-size: 1rem;
   background-color: #000;
   color: #fff;
   font-family: 'Inter', sans-serif;
@@ -11,7 +11,7 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1rem 0;
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #adadad;
   font-weight: normal;
 }
@@ -31,7 +31,7 @@ p, ul, ol {
 
 .header {
   margin: 1rem 0 2rem 0;
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #adadad;
 }
 
