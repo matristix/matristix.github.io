@@ -50,3 +50,15 @@ hr {
   background-color: #adadad; /* Sets the color of the line */
   margin: 1rem 0; /* Adds vertical space around the line */
 }
+
+.link-container h2 {
+  color: #fff;
+}
+
+.link-container p {
+  color: #adadad;
+}
+
+.link-container:hover {
+  color: #fff;
+}
