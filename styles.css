@@ -51,14 +51,15 @@ hr {
   margin: 1rem 0; /* Adds vertical space around the line */
 }
 
-.link-container h2 {
+.link-container a {
+  color: #adadad;
+  text-decoration: none;
+}
+
+.link-container a:hover {
   color: #fff;
 }
 
-.link-container p {
-  color: #adadad;
-}
-
-.link-container:hover {
+.link-container h2 {
   color: #fff;
 }
