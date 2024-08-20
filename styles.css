@@ -9,16 +9,16 @@ html {
   font-family: 'Inter', sans-serif;
 }
 
-h1 {
-  font-size: 1.4rem;
-  color: #fff;
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 1rem 0;
   font-size: 0.9rem;
   color: #adadad;
   font-weight: normal;
+}
+
+h1 {
+  font-size: 1.2rem;
+  color: #fff;
 }
 
 p, ul, ol {
