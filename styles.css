@@ -56,13 +56,9 @@ hr {
   margin: 1rem 0;
 }
 
-.link-container a {
+.link-container p {
   color: #adadad;
   text-decoration: none;
-}
-
-.link-container:hover {
-  color: #fff;
 }
 
 .link-container h2 {
