@@ -45,13 +45,13 @@ p, ul, ol {
 }
 
 hr {
-  border: none; /* Removes the default border */
-  height: 1px; /* Sets the height of the line */
-  background-color: #adadad; /* Sets the color of the line */
-  margin: 1rem 0; /* Adds vertical space around the line */
+  border: none;
+  height: 1px;
+  background-color: #adadad;
+  margin: 1rem 0;
 }
 
-.link-container {
+.link-container a {
   color: #adadad;
   text-decoration: none;
 }
