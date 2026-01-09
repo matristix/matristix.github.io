@@ -3,7 +3,7 @@ html {
   padding: 2rem 1rem;
   margin: auto;
   line-height: 1.5;
-  font-size: 3rem;
+  font-size: 1.3rem;
   background-color: #000;
   color: #fff;
   font-family: 'Inter', sans-serif;
@@ -64,4 +64,5 @@ hr {
 .link-container h2 {
   color: #fff;
 }
+
 
